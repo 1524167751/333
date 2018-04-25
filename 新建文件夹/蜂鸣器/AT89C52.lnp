@@ -1,0 +1,3 @@
+"C:\Users\Administrator\Desktop\新建文件夹 (13)\STARTUP.obj" 
+TO "C:\Users\Administrator\Desktop\新建文件夹 (13)\AT89C51" 
+PRINT(".\AT89C51.m51")
